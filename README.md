@@ -3,7 +3,9 @@ Redes de comunicação de dados
 
 # Códigos de simulação para MATLAB/Octave
 
-# Tutorial para instalação do Octave
+# Tutorial para instalação do Octave - créditos Vinicius Monego
+
+![Tutorial](tutorialoctave.md)
 
 # Descrição
 
