@@ -1,10 +1,3 @@
-# elc1106
-Redes de comunicação de dados
-
-# Códigos de simulação para MATLAB/Octave
-
-# Tutorial para instalação do Octave
-
 # Descrição
 
 [GNU Octave](https://www.gnu.org/software/octave/) é um [software livre](https://www.gnu.org/philosophy/free-sw.pt-br.html) para computação numérica, com sintaxe compatível com a do MATLAB®.
