@@ -2,7 +2,9 @@
 
 # Códigos de simulação para MATLAB/Octave
 
-# Tutorial para instalação do Octave - créditos Vinicius Monego
+# Tutorial para instalação do Octave
+
+Créditos: Vinicius Monego
 
 [GNU Octave](https://www.gnu.org/software/octave/) é um [software livre](https://www.gnu.org/philosophy/free-sw.pt-br.html) para computação numérica, com sintaxe compatível com a do MATLAB®.
 
