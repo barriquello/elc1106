@@ -2,6 +2,8 @@
 
 # Códigos de simulação para MATLAB/Octave
 
+- Simulação por eventos discretos (DES - discrete event simulator) 
+
 # Tutorial para instalação do Octave
 
 Créditos: Vinicius Monego
@@ -48,4 +50,3 @@ pkg load control
 
 [Apostila](https://edisciplinas.usp.br/pluginfile.php/256601/mod_resource/content/1/apostila_matlab_octave.pdf) (em português)
 
-[Cheatsheet](https://altons.github.io/octave/2013/05/05/octave-commands-cheat-sheet/) (em inglês)
