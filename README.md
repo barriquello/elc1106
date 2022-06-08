@@ -14,15 +14,14 @@ Créditos: Vinicius Monego
 
 ## Windows
 
-[Link para download](https://ftp.gnu.org/gnu/octave/windows/) do instalador `octave-4.2.0-w64-installer.exe`, para uma plataforma Windows de 64 bits.
+[Link para download](https://ftp.gnu.org/gnu/octave/windows/) do instalador `octave-v.v.v-w64-installer.exe`, para uma plataforma Windows de 64 bits(v-v-v representa versão escolhida).
 
 No Windows, todos os pacotes mais comuns já vêm pré instalados.
 
 ## GNU/Linux
 
-No sistema GNU/Linux os pacotes do Octave são distribuídos separadamente e precisam ser instalados além do interpretador básico. Nos exemplos abaixo são instalados os pacotes `octave-control` (funções para sistemas de controle) e `octave-signal` (funções para processamento de sinais). `octave-info` é apenas o manual (não é um pacote do Octave). O download e instalação é feito usando os repositórios.
+No sistema GNU/Linux os pacotes do Octave são distribuídos separadamente e precisam ser instalados além do interpretador básico. Nos exemplos abaixo são instalados os pacotes `octave-control` (funções para sistemas de controle) e `octave-signal` (funções para processamento de sinais). `octave-info` é apenas o manual (não é um pacote do Octave). O download e instalação é feito usando os repositórios. Em ambos os casos, o Octave aparecerá para uso no menu do desktop, ou pode ser invocado pela linha de comando como `$ octave`. 
 
-Em ambos os casos, o Octave aparecerá para uso no menu do desktop, ou pode ser invocado pela linha de comando como `$ octave`. A interface gráfica foi uma adição à versão 4.0.0. Para a versão 3.8 pode ser necessário usar o parâmetro force-gui: `$ octave --force-gui`
 
 ### Debian/Ubuntu
 
