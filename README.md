@@ -4,6 +4,18 @@
 
 - Simulação por eventos discretos (DES - discrete event simulator) 
 
+A simulação evolui pela geração e pelo consumo de eventos. O tempo avança em passos variáveis, onde cada passo corresponde ao intervalo de tempo do evento atual até o próximo evento.
+
+```mermaid
+graph TD;
+    A[Início da simulação] --> B{Tempo > <br> Tempo máximo <br> de simulação ?};
+    B-->|Sim|D[Fim da simulação];
+    B-->|Não|C[Seleciona próximo <br> evento cronologicamente]; 
+    C-->|Não há novos eventos|D[Fim da simulação];
+    C-->E[Executa evento];
+    E-->B;
+```
+
 # Tutorial para instalação do Octave
 
 Créditos: Vinicius Monego
